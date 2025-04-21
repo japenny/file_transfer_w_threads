@@ -1,0 +1,3 @@
+ERROR 404:
+Motivation not found.
+Please insert snacks to continue.
